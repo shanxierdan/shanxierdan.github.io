@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "刘博"
-description              : "机器学习 / 人工智能 / 统计学"
+title                    : "Bo Liu"
+description              : "Machine Learning / AI / Statistics"
 repository               : "shanxierdan/shanxierdan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "刘博"
+  name             : "Bo Liu"
   avatar           : "images/liubo-pic.jpg"
-  bio              : "吉林大学 数学学院"
-  location         : "吉林 长春"
-  employer         : #"CUHK(SZ)"
+  bio              : "Jilin University, School of Mathematics"
+  location         : "Changchun, Jilin, China"
+  employer         : "CUHK(SZ)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uYuXduMAAAAJ&hl=zh-CN"
   email            : "liubo1022@mails.jlu.edu.cn"

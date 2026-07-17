@@ -10,101 +10,101 @@ redirect_from:
 
 <span class="anchor" id="about-me"></span>
 
-我本科毕业于吉林大学 数学学院，获得统计学学士学位。即将于今年秋季入读香港中文大学（深圳）(CUHK-SZ)，攻读MPhil学位，导师为 IEEE Life Fellow 张大鹏教授。
+I graduated from Jilin University, School of Mathematics with a B.S. in Statistics. I will be pursuing an MPhil at The Chinese University of Hong Kong, Shenzhen (CUHK-SZ) this fall, advised by Prof. David Zhang, IEEE Life Fellow.
 
-我的研究兴趣包括：
-- 机器学习 / 深度学习
-- 强化学习
-- 推荐系统
-- AI for Science（AI4Sci）
-- 多臂老虎机 (Multi-Armed Bandits)
-- 数据增强
+My research interests include:
+- Machine Learning / Deep Learning
+- Reinforcement Learning
+- Recommendation Systems
+- AI for Science (AI4Sci)
+- Multi-Armed Bandits
+- Data Augmentation
 
 
 <span class="anchor" id="-xl"></span>
 
-# 🎓 学历
-- *2022.08 - 2026.06*, <a href="https://www.jlu.edu.cn/">吉林大学</a> 数学学院, 吉林长春, 统计学 本科 (GPA: 86.09)
-- *2026 Fall - 至今*, <a href="https://www.cuhk.edu.cn/">香港中文大学（深圳）</a>, 广东深圳, MPhil (导师: Prof. David Zhang, IEEE Life Fellow)
+# 🎓 Education
+- *Aug 2022 - Jun 2026*, <a href="https://www.jlu.edu.cn/">Jilin University</a>, School of Mathematics, Changchun, Jilin, B.S. in Statistics (GPA: 86.09)
+- *Fall 2026 - Present*, <a href="https://www.cuhk.edu.cn/">The Chinese University of Hong Kong, Shenzhen</a> (CUHK-SZ), Shenzhen, Guangdong, MPhil (Advisor: Prof. David Zhang, IEEE Life Fellow)
 
 <span class="anchor" id="-yjjy"></span>
 
-# 🔬 科研经历
-- *2025.12 - 至今*, **Research Assistant**, AdBRC, 香港中文大学（深圳）
-- *2025.06 - 2025.12*, **Research Assistant**, AIMS Lab, 香港科技大学（广州）
-- *2023.12 - 2025.05*, **Research Assistant**, TML Group, 吉林大学
+# 🔬 Research Experience
+- *Dec 2025 - Present*, **Research Assistant**, AdBRC, CUHK-SZ
+- *Jun 2025 - Dec 2025*, **Research Assistant**, AIMS Lab, HKUST(GZ)
+- *Dec 2023 - May 2025*, **Research Assistant**, TML Group, Jilin University
 
-学术服务: *KDD 2026* 审稿人
+Academic Service: Reviewer for *KDD 2026*
 
 <span class="anchor" id="-lwzl"></span>
 
-# 📝 论文发表
+# 📝 Publications
 
 - **"PreMAB: A Multi-Module Short Video Recommendation System with Foundation Models and MAB to save cold-start"**  
-  已接收于 *ICASSP 2026*  
-  [[网页]](https://ieeexplore.ieee.org/document/11462015)
+  Accepted by *ICASSP 2026*  
+  [[Paper]](https://ieeexplore.ieee.org/document/11462015)
 
 - **"DiBS: Diffusion-Informed Branch Selection"**  
   *arXiv preprint*, 2026  
-  [[网页]](https://arxiv.org/pdf/2606.06518)
+  [[Paper]](https://arxiv.org/pdf/2606.06518)
 
 - **"Task Offloading and Resource Allocation in Hybrid-Powered WPT MEC System: An Enhanced Deep Reinforcement Learning Method"**  
   *Computer Networks*  
-  [[网页]](https://www.sciencedirect.com/science/article/abs/pii/S1389128625002804)
+  [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S1389128625002804)
 
 - **"Optimal Survey Line Design Based on Genetic Algorithm and Spatial Resolution"**  
   *Artificial Intelligence for Future Society*, Springer Nature  
-  [[网页]](https://link.springer.com/chapter/10.1007/978-3-032-08195-7_27)
+  [[Paper]](https://link.springer.com/chapter/10.1007/978-3-032-08195-7_27)
 
 <span class="anchor" id="-xmjy"></span>
 
-# 💻 项目经历
+# 💻 Projects
 
-**AI4Sci: AI 驱动的红外光谱分析** *(2025.07 - 至今)*  
-Research Assistant | 导师: Prof. Jun Xia, 香港科技大学（广州）  
-- 提出了一种分子结构解析方法，可以以红外光谱作为输入，生成各种可能的分子结构作为输出
-- 引入 reward-guided tree search 框架，利用 test-time computation 提升序列质量和多样性
-- 设计红外光谱预训练大模型，实现下游任务：官能团检测、分子属性预测、化合物分析与指纹预测
+**AI4Sci: AI-Driven Infrared Spectrum Analysis** *(Jul 2025 - Present)*  
+Research Assistant | Advisor: Prof. Jun Xia, HKUST(GZ)  
+- Proposed a molecular structure elucidation method that takes IR spectra as input and generates various possible molecular structures as output
+- Introduced a reward-guided tree search framework to harness test-time computation for boosting sequence quality and diversity
+- Designed an infrared spectroscopy pre-trained large model with downstream tasks: functional group detection, molecular property prediction, compound analysis, and fingerprint prediction
 
-**基于 Foundation Models 与 MAB 的推荐系统** *(2024.07 - 2025.08)*  
-Research Assistant | 导师: Prof. Osman Yağan, 卡内基梅隆大学 计算机科学学院  
-- 提出结合预训练基础模型与上下文多臂老虎机 (MAB) 技术的新型推荐系统
-- 使用 UCB 等经典模型在 MicroLens-100k 数据集上平衡冷启动问题中的探索与利用
-- 利用预训练基础模型 (VideoMAE) 提取视频特征作为 MAB 的上下文，结合 IDRec 输出进行最终推荐
+**Foundation Models-Driven Recommendation System with MAB** *(Jul 2024 - Aug 2025)*  
+Research Assistant | Advisor: Prof. Osman Yagan, School of CS, Carnegie Mellon University  
+- Proposed a novel recommendation system combining pre-trained Foundation Models with contextual MAB techniques
+- Leveraged classic models like UCB to balance exploration and exploitation in cold-start settings on the MicroLens-100k dataset
+- Used pre-trained VideoMAE to extract video features as MAB context, combined with IDRec outputs via a warm-up framework
 
-**标签比例学习的数据增强方法** *(2024.05 - 2025.06)*  
-Research Assistant | 导师: Prof. Ximing Li, 吉林大学 计算机科学与技术学院  
-- 为包级监督学习提出高效的 Bag Mixup 增强方法
-- 在多个数据集 (CIFAR10, EMNIST, SVHN) 上评估，超越 SOTA 基线 (LLPFC, LLP-VAT)
+**Data Augmentation for Label-Proportional Learning** *(May 2024 - Jun 2025)*  
+Research Assistant | Advisor: Prof. Ximing Li, College of CS, Jilin University  
+- Proposed an efficient Bag Mixup augmentation method for bag-level supervision learning
+- Evaluated across multiple datasets (CIFAR10, EMNIST, SVHN) with various bag scales, outperforming SOTA baselines (LLPFC, LLP-VAT)
 
-**基于深度强化学习的 WPT MEC 系统混合功率分配** *(2024.12)*  
-Research Assistant | 导师: Ziqi Liu 博士, 吉林大学 计算机科学与技术学院  
-- 结合移动边缘计算 (MEC) 与无线功率传输 (WPT)，提升移动网络的可持续性和效率
-- 提出绿色优先的混合能源供应系统，利用可再生能源和电网能源优化网络中的能源使用和计算能力
+**Deep RL for Hybrid Power Allocation in WPT-MEC Systems** *(Dec 2024)*  
+Research Assistant | Advisor: Dr. Ziqi Liu, College of CS, Jilin University  
+- Combined Mobile Edge Computing (MEC) and Wireless Power Transfer (WPT) to enhance sustainability and efficiency of mobile networks
+- Formulated a long-term average grid energy minimization problem and introduced a green-prioritized hybrid energy supply system
 
-**基于遗传算法的多波束测线优化** *(2024.02 - 2024.05)*  
-- 将单波束声纳测量数据重建为平面分段海底模型
-- 使用遗传算法推导最优测量路线
+**Optimal Planning of Multibeam Surveys Using Genetic Algorithm** *(Feb 2024 - May 2024)*  
+- Reconstructed grid-based seabed depth data into a planar-segmented seabed model
+- Derived optimal survey routes using genetic algorithm operations with integrated optimization objectives
 
 <span class="anchor" id="-zzfw"></span>
 
-# 🏛️ 组织与服务
-- *2022.08 - 2024.08*, 数学学院新媒体中心 | **副主席**  
-  管理学院官方媒体平台运营与内容审核，制定季度工作计划，推动平台关注量增长 30%
+# 🏛️ Leadership and Service
+- *Aug 2022 - Aug 2024*, New Media Center, School of Mathematics | **Vice President**  
+  Managed official media platform operations and content review; developed quarterly work plans and drove a 30% increase in platform followers
 
 <span class="anchor" id="-ryjx"></span>
 
-# 🏅 荣誉奖项
-- *2025-2026* 学年 —— 校优秀学生干部
-- *2025-2026* 学年 —— 学术奖学金
-- *2024-2025* 学年 —— 校三等奖学金
-- *2023-2024* 学年 —— 校优秀学生干部 (Top 5/247)
-- *2022-2023* 学年 —— 院优秀学生干部 (Top 10/247)
-- *2023* 年度 —— 优秀学生志愿者
-- 全国大学生数学建模竞赛 —— **吉林省二等奖**
+# 🏅 Honors and Awards
+- *2025-2026* — University Excellent Student Leader
+- *2025-2026* — Academic Scholarship
+- *2024-2025* — Third-Class University Scholarship
+- *2023-2024* — University Excellent Student Leader (Top 5/247)
+- *2022-2023* — College Excellent Student Leader (Top 10/247)
+- *2023* — Excellent Student Volunteer of the Year
+- China Undergraduate Mathematical Contest in Modeling — **Second Prize, Jilin Province**
 
 <span class="anchor" id="-jn"></span>
 
-# 🛠 技能
-- **语言**: TOEFL: 98, GRE: 320
-- **编程**: C, Matlab, R, Python (PyTorch)
+# 🛠 Skills
+- **Languages**: TOEFL: 98, GRE: 320
+- **Programming**: C, Matlab, R, Python (PyTorch)

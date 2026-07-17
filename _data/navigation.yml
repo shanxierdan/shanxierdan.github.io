@@ -1,22 +1,22 @@
 # main links links
 main:
-  - title: "简介"
+  - title: "About"
     url: "/#about-me"
 
-  - title: "学历"
+  - title: "Education"
     url: "/#-xl"
 
-  - title: "科研经历"
+  - title: "Research"
     url: "/#-yjjy"
 
-  - title: "论文发表"
+  - title: "Publications"
     url: "/#-lwzl"
 
-  - title: "项目经历"
+  - title: "Projects"
     url: "/#-xmjy"
 
-  - title: "荣誉奖项"
+  - title: "Honors"
     url: "/#-ryjx"
 
-  - title: "技能"
+  - title: "Skills"
     url: "/#-jn"
